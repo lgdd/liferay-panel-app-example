@@ -1,0 +1,4 @@
+Bundle-Name: custom-control-panel-app
+Bundle-SymbolicName: custom.control.panel.app
+Bundle-Version: 1.0.0
+Export-Package: custom.control.panel.app.constants
